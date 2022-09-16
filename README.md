@@ -1,1 +1,1 @@
-# wurujiepku.github.io
+# This is a tutorial about amt.
