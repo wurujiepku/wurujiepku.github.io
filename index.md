@@ -11,7 +11,7 @@ As shown below:
   
 There have four similar test questions, you must choose all correct to qualify for exam questions. Then you can accept this work and get paid.
 
-**During the HIT.** The only difference is that you need to write down the reason for your choice by looking at the pictures of sets A and B. Don't be nervous, there are many fairish answers. Use your imagination and aslo please take it seriously, we will review each of your answers.
+**During the HIT.** The only difference is that you need to write down the reason for your choice by looking at the pictures of sets A and B. Don't be nervous, there are many fairish answers. Your thinking process is what we care about. Use your imagination and aslo please take it seriously, we will review each of your answers.
 
 As shown below:
 
