@@ -1,25 +1,31 @@
-# Here Is A Simple Tutorial
+# Welcome to our task! Please follow the instructions below. Don't worry, we have all your questions covered.
 ## All you need to do as follows
-+ Choose Set A or B to which the Query Image belongs.
-+ Write the Reason description on Conceptual Difference.
+> 1.Take a look at two sets of images, Set A and Set B.
 
-**Choose Set A or B**
+All the images in Set A can be described by the same sentence, let's denote that sentence as **C**.
 
-All the images in set A have the same concepts, while the pictures in set B contain concepts that either completely lack a certain part, and a certain part is different and contains other concepts.
+However, sentence **C** is **not true** for **all** images in Set B. 
 
-> These concepts may include basic attributes, such as category (ex. dog, cat, etc.), color (ex. red, white, etc.), shape (ex. square, round, etc.), size (ex. small, big, etc.), material (ex. metal, glass, etc.), containment (ex. in a plate, on a table, etc.).
+Therefore, even if you might have multiple sentence **C**s in mind after looking at those images in Set A, not all these candidates are the true sentence **C**. You need to refine your sentence **C** using images in Set B to ensure it satisfies the two requirements above.
 
-> It may also be some advanced attributes, such as scent, taste, nutrition, fragile or not, functionality (ex. fly, swim, etc.), affordance.
+The sentence **C** could be broken down into a few "concepts", such as category (ex. dog, cat, etc.), color (ex. red, white, etc.), shape (ex. square, round, etc.), size (ex. small, big, etc.), material (ex. metal, glass, etc.), containment (ex. in a plate, on a table, etc.).
 
-Choose the correct set of a query image by looking at two sets of images without any other context or information.
+The concept could also be a bit complex, such as scent, taste, nutrition, fragile or not, functionality (ex. object that can fly, swim, etc.), affordance (ex. object that can be used to cut, object that can be used as a hook, etc).
 
-**Write the Reason Description**
+> 2.Then determine whether a query image belongs to Set A or B.
 
-Write down a sentence for your choice by looking at the pictures of sets A and B. This sentence describes the Highest Common Factor of concepts contained in set A pictures.
+This is easy! If the query image satisfies the sentence **C**, it should belong to Set A! Otherwise mark it as from Set B.
 
-Don't be nervous, there are many fairish answers. Your thinking process is what we care about. Use your imagination and aslo please take it seriously, we will review each of your answers.
+> 3.Finally, write down the sentence **C** in your mind.
 
-Some examples are shown below:
+If you're really not sure about your answer, just provide your best guess! Please make sure what you write down is a **sentence**, not a few words!!
+
+Ex.
+> A small bird that is flying ✅
+
+> bird, fly ❌
+
+Let's review some examples step by step:
 
 > ![image](assets/00_A.jpg)
   
