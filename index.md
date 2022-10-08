@@ -30,7 +30,7 @@ This is easy! If the query image satisfies the sentence **C**, it should belong 
 
 ### Let's review some examples step by step:
 
-![image](assets/00_A.jpg)
+![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/00_A.jpg)
   
 Look at the images in two sets, *'A homeless people'* seems to be the sentence that can describe all **Set A** images while no image in **Set B** depicts it.
 Therefore, sentence **C** can be *'A homeless people'*, you should write it down.
@@ -38,12 +38,12 @@ The query image clearly depicts sentence **C**, so it belongs to **Set A**.
 
 ---
 
-![image](assets/00_B.jpg)
+![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/00_B.jpg)
 Here we have a different query image for the previous problem, remember the sentence **C** is *'A homeless people'*, and the query image does not depict it. Therefore it belongs to **Set B**.
 
 ---
 
-![image](assets/01_A.jpg)
+![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/01_A.jpg)
 
 This problem is slightly challenging. We can see similar animals in both sets of images. However, it seems that all the animals in **Set A** are *running*, while the only running object in **Set B** is a *robot*, not an *animal*. Therefore, the sentence *'A running animal'* can describe all **Set A** images while no image in **Set B** depicts it. Let's write it down as our sentence **C**.
 
