@@ -42,17 +42,17 @@ For example, if sentence is "animal tree", following three pictures are **all ri
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/2.jpg)
 
-**Almost most importantly**, each picture in **Set B** satisfy the corresponding sentence, it **must not** satisfy the sentence in **Set A** (i.e. sentence **C**).
+**Almost most importantly**, each picture in **2nd row** satisfy the corresponding sentence, it **must not** satisfy the sentence in **1st row**.
 
-For example, if sentence **C** is "animal tree" (left below), one of **Set B** sentence is "hunting animal", "hunting animal by the tree" (middle below) also satisfy sentence **C** at the same time. So the right below is right for "hunting animal".
+For example, if sentence is "animal tree" (left below), one sentence in **2nd row** is "hunting animal", "hunting animal by the tree" (middle below) also satisfy sentence in **1st row** ("animal tree") at the same time. Instead, the right below is right for "hunting animal".
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/3.jpg)
 
 ---
 
-For complex concept combinations, the picture should satisfy all concepts in sentence **C** at the same time.
+For complex concept combinations, the picture should satisfy all concepts in sentence at the same time.
 
-For example, if sentence **C** is "a row flying birds" (right below), **Set B** sentence are "a row birds" (left below) and "flying birds" (middle below).
+For example, if sentence in **1st row** is "a row flying birds" (left below), sentences in **2nd row** are "a row birds" (middle below) and "flying birds" (right below).
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/4.jpg)
 
