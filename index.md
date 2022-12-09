@@ -4,23 +4,23 @@
 
 ### 1. Find pictures that satisfy each sentence.
 
-Each HIT has 14 sentences, you need to copy them and search in specific Image Databases.
+Each HIT has 14 sentences, you need to copy them and search in **specific** image databases.
 
 >[**GettyImages**](https://www.gettyimages.com) & [**Flickr**](https://www.flickr.com) are preferred.✅<br/>[**GoogleImages**](https://images.google.com) is strictly prohibited.❌
 
-Select pictures that are appropriate to their corresponding sentence.
+Select pictures that satisfy their corresponding sentence.
 
 + Although the 7 sentences in the first row are the same, all pictures must be **absolutely different**.
 
 + And each picture in the second row cannot satisfy the sentence in the first row, i.e., **only satisfy itself**.
 
-The **sentence** could be broken down into a few **"concepts"**, such as *category* (ex. dog, cat, etc.), *color* (ex. red, white, etc.), *shape* (ex. square, round, etc.), *size* (ex. small, big, etc.), *material* (ex. metal, glass, etc.), *containment* (ex. in a plate, on a table, etc.).
+<!-- The **sentence** could be broken down into a few **"concepts"**, such as *category* (ex. dog, cat, etc.), *color* (ex. red, white, etc.), *shape* (ex. square, round, etc.), *size* (ex. small, big, etc.), *material* (ex. metal, glass, etc.), *containment* (ex. in a plate, on a table, etc.).
 
-The concept could also be a bit complex, such as *scent*, *taste*, *nutrition*, *functionality* (ex. object that can fly, swim, etc.), *affordance* (ex. object that can be used to cut, drivable, etc.), *factual knowledge* (ex. US capital, etc.), *meta class* (ex. canine, rodent, etc.), *relation* (ex. A inside B, etc.), *interesting properties* (ex. rusty, broken, sharp, etc.).
+The concept could also be a bit complex, such as *scent*, *taste*, *nutrition*, *functionality* (ex. object that can fly, swim, etc.), *affordance* (ex. object that can be used to cut, drivable, etc.), *factual knowledge* (ex. US capital, etc.), *meta class* (ex. canine, rodent, etc.), *relation* (ex. A inside B, etc.), *interesting properties* (ex. rusty, broken, sharp, etc.). -->
 
-### 2. Then paste their URLs into the textbox.
+### 2. Then paste their URLs into corresponding textbox.
 
-Click anywhere, the corresponding image will load below. You should check whether the paste is correct.
+Click anywhere, the corresponding image will load below. You should check whether the URL is correct.
 
 If the URL is wrong, "IMAGE NOT FOUND" will show.
 
