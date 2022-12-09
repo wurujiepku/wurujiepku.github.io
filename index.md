@@ -4,27 +4,31 @@
 
 ### 1. Find pictures that satisfy each sentence.
 
-All the images in **Set A** can be described by the same sentence, let's denote that sentence as **C**.
+Each HIT has 14 sentences, you need to copy them and search in specific Image Databases.
 
-However, sentence **C** is **not true** for **all** images in **Set B**. 
+>[**GettyImages**](https://www.gettyimages.com) & [**Flickr**](https://www.flickr.com) are preferred.✅<br/>[**GoogleImages**](https://images.google.com) is strictly prohibited.❌
 
-The sentence **C** could be broken down into a few **"concepts"**, such as *category* (ex. dog, cat, etc.), *color* (ex. red, white, etc.), *shape* (ex. square, round, etc.), *size* (ex. small, big, etc.), *material* (ex. metal, glass, etc.), *containment* (ex. in a plate, on a table, etc.).
+Select pictures that are appropriate to their corresponding sentence.
+
++ Although the 7 sentences in the first row are the same, all pictures must be **absolutely different**.
+
++ And each picture in the second row cannot satisfy the sentence in the first row, i.e., **only satisfy itself**.
+
+The **sentence** could be broken down into a few **"concepts"**, such as *category* (ex. dog, cat, etc.), *color* (ex. red, white, etc.), *shape* (ex. square, round, etc.), *size* (ex. small, big, etc.), *material* (ex. metal, glass, etc.), *containment* (ex. in a plate, on a table, etc.).
 
 The concept could also be a bit complex, such as *scent*, *taste*, *nutrition*, *functionality* (ex. object that can fly, swim, etc.), *affordance* (ex. object that can be used to cut, drivable, etc.), *factual knowledge* (ex. US capital, etc.), *meta class* (ex. canine, rodent, etc.), *relation* (ex. A inside B, etc.), *interesting properties* (ex. rusty, broken, sharp, etc.).
 
-In each problem, you will see one sentence **C** (same seven) and another seven sentences. You need to copy them and search in the specified database [**GettyImages**](https://www.gettyimages.com), filter pictures that satisfy each corresponding sentence, and copy their **URLs**.
+### 2. Then paste their URLs into the textbox.
 
-### 2. Then paste their URL into the textbox.
+Click anywhere, the corresponding image will load below. You should check whether the paste is correct.
 
-Click anywhere, the corresponding image will load below. You can check whether the paste is correct.
-
-If the URL is wrong, "image not found" will show.
-
-*You can also watch this step by step demo [video](https://www.youtube.com) (optional)*.
+If the URL is wrong, "IMAGE NOT FOUND" will show.
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/1.jpg)
 
 ### 3. Click 'Next' and proceed to the next problem. Make sure you complete all the problems.
+
+*You can watch this step by step demo [video](https://www.youtube.com)*.
 
 <iframe width="830" height="402" src="https://www.youtube.com/embed/o4eLRFnWQNU"> </iframe>
 
@@ -34,7 +38,7 @@ If the URL is wrong, "image not found" will show.
 
 Concepts in each sentence may contain different relationships. The import is that the concepts shown in the picture satisfy the sentence.
 
-For example, if sentence **C** is "animal tree", following three pictures are **all right**. There are "animal with tree", "animal on tree", "animal in tree".
+For example, if sentence is "animal tree", following three pictures are **all right**. There are "animal with tree", "animal on tree", "animal in tree".
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/2.jpg)
 
