@@ -38,13 +38,13 @@ If the URL is wrong, "IMAGE NOT FOUND" will show.
 
 Concepts in each sentence may contain different relationships. The import is that the concepts shown in the picture satisfy the sentence.
 
-For example, if sentence is "animal tree", following three pictures are **all right**. There are "animal with tree", "animal on tree", "animal in tree".
+For example, if sentence is "animal tree", following three pictures are **all right**. There are "animal with tree" (left below), "animal on tree" (middle below), "animal in tree" (right below).
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/2.jpg)
 
 **Almost most importantly**, each picture in **2nd row** satisfy the corresponding sentence, it **must not** satisfy the sentence in **1st row**.
 
-For example, if sentence is "animal tree" (left below), one sentence in **2nd row** is "hunting animal", "hunting animal by the tree" (middle below) also satisfy sentence in **1st row** ("animal tree") at the same time. Instead, the right below is right for "hunting animal".
+For example, if sentence in **1st row** is "animal tree" (left below), one sentence in **2nd row** is "hunting animal", "hunting animal by the tree" (middle below) also satisfy sentence  ("animal tree") at the same time. Instead, the right below is right for "hunting animal".
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/3.jpg)
 
