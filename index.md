@@ -26,9 +26,11 @@ If the URL is wrong, "IMAGE NOT FOUND" will show.
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/1.jpg)
 
+---
+
 ### 3. Click 'Next' and proceed to the next problem. Make sure you complete all the problems.
 
-*You can watch this step by step demo [video](https://www.youtube.com)*.
+*You can watch this step by step demo [video](https://www.youtube.com/watch?v=o4eLRFnWQNU)*.
 
 <iframe width="830" height="402" src="https://www.youtube.com/embed/o4eLRFnWQNU"> </iframe>
 
