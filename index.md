@@ -58,4 +58,4 @@ For example, if sentence in **1st row** is "a row flying birds" (left below), se
 
 ---
 
-Congratulations! You've finished the tutorial. Before you leave, please note that all your past answers are saved when you click **Next**, so you may come back and review them anytime you want. There are **six** problems in total. Please check your explanations carefully before finally clicking **Submit** to get your reward.
+Congratulations! You've finished the tutorial. Before you leave, please note that all your past answers are saved when you click **Next**, so you may come back and review them anytime you want. There are **six** problems in each HIT. Please check your URLs carefully before finally clicking **Submit** to get your reward.
