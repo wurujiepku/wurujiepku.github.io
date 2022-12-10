@@ -44,7 +44,7 @@ For example, if sentence is "animal tree", following three pictures are **all ri
 
 **Almost most importantly**, each picture in **2nd row** satisfy the corresponding sentence, it **must not** satisfy the sentence in **1st row**.
 
-For example, if sentence in **1st row** is "animal tree" (left below), one sentence in **2nd row** is "hunting animal", "hunting animal by the tree" (middle below) also satisfy sentence  ("animal tree") at the same time. Instead, the right below is right for "hunting animal".
+For example, if sentence in **1st row** is "animal tree" (left below), one sentence in **2nd row** is "hunting animal", "hunting animal by the tree" (middle below) also satisfy sentence  ("animal tree") at the same time. Instead, the right below is right for "hunting animal" (no tree).
 
 ![image](https://bongard-ow.s3.ap-northeast-2.amazonaws.com/images/tutorial/3.jpg)
 
