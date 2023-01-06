@@ -6,7 +6,7 @@
 
 Each HIT has 14 sentences, you need to copy them and search in **specific** image databases.
 
->[**GettyImages**](https://www.gettyimages.com) & [**Flickr**](https://www.flickr.com) are preferred.✅<br/>[**GoogleImages**](https://images.google.com) is strictly prohibited.❌
+>[**Pexels**](https://www.pexels.com) & [**Flickr**](https://www.flickr.com) are preferred.✅<br/>[**GoogleImages**](https://images.google.com) is strictly prohibited.❌
 
 Select pictures that satisfy their corresponding sentence.
 
